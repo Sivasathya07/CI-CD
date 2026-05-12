@@ -7,6 +7,3 @@ services:
 
 
 
-Requirements.txt
-flask
-gunicorn
